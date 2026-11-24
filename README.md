@@ -1,4 +1,4 @@
-BTCAi
+خBTCAi
 
 BTCAi is an experimental independent cryptocurrency based on Bitcoin Core, developed with AI assistance.
 
@@ -13,3 +13,9 @@ BTCAi is an experimental independent cryptocurrency based on Bitcoin Core, devel
 BTCAi is independent of Bitcoin (BTC).
 
 Experimental software. Not yet audited or listed on exchanges.
+## Network Connection
+
+Temporary bootstrap node:
+serveo.net:62640
+
+P2P port: 19335
