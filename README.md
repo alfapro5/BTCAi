@@ -16,6 +16,6 @@ Experimental software. Not yet audited or listed on exchanges.
 ## Network Connection
 
 Temporary bootstrap node:
-serveo.net:62640
+serveo.net:39171
 
 P2P port: 19335
